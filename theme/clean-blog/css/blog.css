@@ -1,0 +1,15 @@
+.intro-header .page-heading, .intro-header .site-heading {
+    color: #333;
+}
+
+hr.small {
+    border-color: #333;
+}
+
+/*.intro-header {*/
+    /*background: right no-repeat;*/
+/*}*/
+
+.navbar-custom .navbar-brand {
+    color: #fff;
+}

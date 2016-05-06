@@ -1,0 +1,18 @@
+# Config file for the theme.
+
+# Variables that are in this file, can be used in your twig template like {{ theme.foo }}
+# Note: If variables do not immediately show up, clear the cache, in the Bolt Backend.
+
+homebg: home-bg.jpg
+
+facebook: https://www.facebook.com/radek.karkut
+twitter: https://twitter.com/slummer87
+github: https://github.com/slummer87
+
+
+# Template filenames: 
+maintenance_template: maintenance_default.twig
+homepage_template: index.twig
+record_template: entry.twig
+listing_template: listing.twig
+search_results_template: listing.twig

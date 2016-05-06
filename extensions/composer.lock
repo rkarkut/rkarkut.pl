@@ -1,0 +1,72 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
+        "This file is @generated automatically"
+    ],
+    "hash": "638e1d1d0dec0a51e6c9b9f13dd343a6",
+    "content-hash": "718fa723649b108de5f539da4169afdf",
+    "packages": [
+        {
+            "name": "mikescops/clean-blog",
+            "version": "v3.0.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/Mikescops/Clean-Blog.git",
+                "reference": "2b941cb2693b72120942b0bd49263ddf3ede6ca7"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/Mikescops/Clean-Blog/zipball/2b941cb2693b72120942b0bd49263ddf3ede6ca7",
+                "reference": "2b941cb2693b72120942b0bd49263ddf3ede6ca7",
+                "shasum": ""
+            },
+            "require": {
+                "bolt/bolt": "^3.0"
+            },
+            "type": "bolt-theme",
+            "extra": {
+                "bolt-screenshots": [
+                    "clean-blog-home.jpg"
+                ],
+                "bolt-icon": "icon-clean-blog.png"
+            },
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Corentin Mors",
+                    "email": "mikescops@pixelswap.fr"
+                },
+                {
+                    "name": "Thaís Santos"
+                }
+            ],
+            "description": "Clean personal news blog.",
+            "keywords": [
+                "blog",
+                "bootstrap",
+                "clean",
+                "news",
+                "simple",
+                "theme"
+            ],
+            "support": {
+                "email": "mikescops@pixelswap.fr",
+                "forum": "http://erupsis.com/forum/",
+                "source": "https://github.com/Mikescops/Clean-Blog/tree/v3.0.0",
+                "issues": "https://github.com/Mikescops/Clean-Blog/issues"
+            },
+            "time": "2016-05-02 19:36:25"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": [],
+    "prefer-stable": true,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": []
+}

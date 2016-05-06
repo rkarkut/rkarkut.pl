@@ -1,0 +1,28 @@
+{
+    "name": "mikescops/clean-blog",
+    "description": "Clean personal news blog.",
+    "type": "bolt-theme",
+    "keywords": ["theme", "bootstrap", "news", "simple", "blog", "clean"],
+    "require": {
+        "bolt/bolt": "^3.0"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name" : "Corentin Mors",
+            "email" : "mikescops@pixelswap.fr"
+        }, {
+            "name" : "Thaís Santos"
+        }
+    ],
+    "support": {
+        "email": "mikescops@pixelswap.fr",
+        "forum": "http://erupsis.com/forum/"
+    },
+    "extra": {
+        "bolt-screenshots": [
+            "clean-blog-home.jpg"
+        ],
+        "bolt-icon": "icon-clean-blog.png"
+    }
+}
