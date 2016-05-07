@@ -10,6 +10,6 @@ hr.small {
     /*background: right no-repeat;*/
 /*}*/
 
-.navbar-custom .navbar-brand {
-    color: #fff;
+.navbar-custom .navbar-brand, .navbar-custom .navbar-brand:hover {
+    color: #404040
 }
