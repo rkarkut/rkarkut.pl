@@ -14,12 +14,19 @@ hr.small {
     color: #404040
 }
 
-article {
+article, h3.post-subtitle, h2.subheading p {
     font-family: medium-content-serif-font, Georgia, Cambria, "Times New Roman", Times, serif;
     letter-spacing: .01rem;
     font-weight: 400;
     font-style: normal;
-    font-size: 21px;
     line-height: 1.58;
     letter-spacing: -.003em
+}
+
+h3.post-subtitle {
+    font-size: 22px;
+}
+
+.post-preview>.post-meta, .intro-header .post-heading .meta {
+    font-size: 16px;
 }
