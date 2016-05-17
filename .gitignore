@@ -2,3 +2,4 @@ vendor
 .idea
 app/config/config.yml
 app/cache
+composer.lock
