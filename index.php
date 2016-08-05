@@ -1,5 +1,7 @@
 <?php
 
+putenv("HOME=".dirname(__FILE__));
+
 /*
  * `dirname(__FILE__)` is intentional to support PHP 5.2 until legacy.php can be shown.
  */
