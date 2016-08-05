@@ -3,3 +3,5 @@ vendor
 app/config/config.yml
 app/cache
 composer.lock
+files
+.composer

@@ -1,6 +1,8 @@
 # Set the default handler.
 DirectoryIndex index.php index.html index.htm
 
+redirect /portfolio http://portfolio.rkarkut.pl
+
 # Prevent directory listing
 Options -Indexes
 
