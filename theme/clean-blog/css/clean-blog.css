@@ -6,8 +6,8 @@
 
 body {
   font-family: "Gotham Rounded A", "Gotham Rounded B", "Helvetica Neue", Helvetica, Arial, sans-serif, "Helvetica Neue", "Helvetica", "Roboto", "Arial";
-  font-size: 20px;
-  color: #404040;
+  font-size: 16px;
+  color: rgb(87, 99, 102);
 }
 p {
   line-height: 1.5;
@@ -256,7 +256,7 @@ hr.small {
 }
 @media only screen and (min-width: 768px) {
   .post-preview > a > .post-title {
-    font-size: 36px;
+    font-size: 30px;
   }
 }
 .section-heading {
